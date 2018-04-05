@@ -14,3 +14,5 @@ progress_bar.py
 
 -------------------------
 License
+Author : Will Sun
+Email  : wy.sun@hotmail.com
