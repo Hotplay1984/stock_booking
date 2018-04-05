@@ -13,3 +13,4 @@ sql_conn.py
 progress_bar.py
 
 -------------------------
+License
